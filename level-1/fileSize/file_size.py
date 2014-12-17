@@ -1,4 +1,5 @@
-import sys, os 
+import sys
+import os 
  
 def main(input_file):
     print os.path.getsize(input_file)

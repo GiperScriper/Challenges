@@ -16,11 +16,11 @@ if __name__ == "__main__":
         print 'First argument must be a text file!\nError: {0}'.format(e)
 
 
-# test = 'test javaScript language'
+test = 'test javaScript language'
 
-# data = test.split()
-# print data
-# output = []
-# for i in data:
-# 	output.append(i[0].upper() + i[1:])
-# print output
+data = test.split()
+print data
+output = []
+for i in data:
+	output.append(i[0].upper() + i[1:])
+print output
