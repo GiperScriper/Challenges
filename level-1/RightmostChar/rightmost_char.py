@@ -18,3 +18,4 @@ if __name__ == "__main__":
        main(sys.argv[1])
     except Exception as e:        
         print 'First argument must be a text file!\nError: {0}'.format(e)
+
