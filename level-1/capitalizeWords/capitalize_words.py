@@ -24,3 +24,19 @@ output = []
 for i in data:
 	output.append(i[0].upper() + i[1:])
 print output
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
